@@ -31,11 +31,6 @@
             "required": true,
             "value":"Neden benden bahsettin?"
         },
-        "M_REPLY_VAR": {
-            "description": "Mesajları etiketleyerek yanıtlama. | Reply to messages by tagging.",
-            "required": true,
-            "value":"true"
-},
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
